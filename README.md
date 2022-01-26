@@ -1,29 +1,12 @@
 ### Hi there 👋
 
-<!--
-**JC-55/JC-55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h3 align="center">A passionate Blockchain developer</h3>
+<h3 align="center">A passionate Web3 / Blockchain Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jc-55" alt="jc-55" /> </p>
 
-- 🔭 I’m currently working on **Defi and Blockchain Development**
+- 🔭 I’m currently working on **Blockchain Development**
 
-- 🌱 I’m currently learning **DeFi**
-
-- 💬 Ask me about **react**
+- 🌱 I’m currently learning **Rust**
 
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>  
