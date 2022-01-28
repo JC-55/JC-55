@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jc-55" alt="jc-55" /> </p>
 
-- 🔭 I’m currently working on **Blockchain Development**
+- 🔭 I’m currently working on **Blockchain Development / Security**
 
 - 🌱 I’m currently learning **Rust**
 
