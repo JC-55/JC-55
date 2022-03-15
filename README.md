@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<h3 align="center">A passionate Web3 / Blockchain Developer</h3>
+<h3 align="center">A passionate Web3 / Blockchain Security Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jc-55" alt="jc-55" /> </p>
 
-- 🔭 I’m currently working on **Blockchain Development / Security**
+- 🔭 I’m currently working on **Blockchain Security**
 
 - 🌱 I’m currently learning **Rust**
 
