@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3 align="center">A passionate Web3 / Blockchain Security Researcher</h3>
+<h3 align="center">A passionate Blockchain Security Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jc-55" alt="jc-55" /> </p>
 
